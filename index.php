@@ -1,5 +1,5 @@
 <?php
-
+/*by hemant for git*/
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
